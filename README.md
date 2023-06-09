@@ -2,7 +2,7 @@
   <a name="ir-arriba"></a>
   # 💻 Conf Bs As
 
-  Trabajo Integrador #1 del módulo Frontend para el curso **Codo a Codo Java Full Stack 2022**
+  Trabajo Integrador #1 del módulo Frontend para el curso **Codo a Codo Java Full Stack2023**
   <div align="center">
     <table>
       <tr>
@@ -108,7 +108,7 @@
 <!-- DESARROLLADO POR -->
   <a name="desarrollado"></a>
   ## 💁 Desarrollado por...
-  * **Joana Coll** - [joana-coll](https://github.com/joana-coll)
+  * Axel- [Axel](https://github.com/avincze.github.io-tpfinal-int-c-js)
   
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
