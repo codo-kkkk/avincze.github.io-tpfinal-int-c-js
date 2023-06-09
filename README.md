@@ -10,7 +10,7 @@
         Consigna: Replica realizada con HTML, Bootstrap y JavaScript
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-carousel.jpg" width="400px">
+          <img src="https://raw.githubusercontent.com/Axel/Conf-Bs-As/main/img/readme-carousel.jpg" width="400px">
         </td>
       </tr>
     </table>
